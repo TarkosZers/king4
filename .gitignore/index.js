@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 const { stripIndents } = require('common-tags');
 
 
-token = NDk1NjczODQ1OTQ5Mzk5MDUw.DqJcPg.sYNMHn-8YEfCw88inlWUvNryy5A;
+token = "NDk1NjczODQ1OTQ5Mzk5MDUw.DqJcPg.sYNMHn-8YEfCw88inlWUvNryy5A;"
 
 let prefix = "+";
 
